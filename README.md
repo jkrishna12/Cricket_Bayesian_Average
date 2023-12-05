@@ -7,7 +7,7 @@ If you were looking purely at their averages you would say so, highlighting the 
 The data is gathered from [Howstat](http://www.howstat.com/cricket/statistics/players/PlayerProgressBat.asp?PlayerID=3463) and the requests and BeautifulSoup libraries are used to scrape the data into a Pandas dataframe. The technique used to scrape the data from the website was found from this [Medium](https://medium.com/geekculture/web-scraping-tables-in-python-using-beautiful-soup-8bbc31c5803e) article. Relevant columns are extracted, cleaned and from that variance and standard error are calculated. 
 
 The formulas to calculate the posterior mean and standard deviations (shown later) were found in the 'Bayesian Data Analysis' textbook. The new posterior values are calculated in a for loop. The distributions for the prior, likelihood and posterior are plotted using seaborn and are then animated to see how it changes with each dismissal. Below is an example of the animation produced.
-!([Adam Voges.gif](https://github.com/jkrishna12/Cricket_Bayesian_Average/blob/main/Adam%20Voges.gif))
+![Adam Voges.gif](https://github.com/jkrishna12/Cricket_Bayesian_Average/blob/main/Adam%20Voges.gif)
 ## Techniques
 - Used requests and BeautifulSoup libraries to scrape data from website and turn into a Pandas dataframe
 - Cleaned dataframe removing missing/eroneous values
