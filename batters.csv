@@ -1,0 +1,58 @@
+Name,Pos,Avg,Bayes_Avg,std_err,90%_lower,90%_upper,label
+Sachin Tendulkar,4,53.8,52.3,2.8,47.75,56.98,Middle Order
+Anjinkya Rahane,5,38.5,38.54,2.99,33.51,43.33,Middle Order
+Cheteshwar Pujara,3,43.6,43.01,3.22,37.75,48.33,Top Order
+Virat Kohli,4,49.3,47.55,3.64,41.42,53.43,Middle Order
+Rohit Sharma,1,46.5,44.8,4.26,37.86,51.77,Top Order
+Graeme Smith,1,48.2,46.97,3.31,41.57,52.41,Top Order
+Hashim Amla,3,46.6,45.65,3.2,40.41,50.94,Top Order
+Jacques Kallis,3,55.4,53.61,2.89,48.78,58.24,Top Order
+Harry Brook,5,62.16,47.32,7.05,35.68,58.92,Middle Order
+AB de Villiers,6,50.66,49.08,3.25,43.81,54.47,Middle Order
+Zak Crawley,1,31.49,33.46,4.46,26.3,40.92,Top Order
+Ben Duckett,2,43.12,41.23,6.06,31.03,51.01,Top Order
+Joe Root,4,50.29,48.91,3.09,43.84,54.04,Middle Order
+Jonny Bairstow,6,37.21,37.4,2.71,32.91,41.85,Middle Order
+Usman Khawaja,1,47.21,45.46,4.09,38.67,52.14,Top Order
+Marnus Labuschagne,3,53.37,49.12,4.8,41.11,56.95,Top Order
+Steve Smith,4,58.62,55.12,3.72,49,61.23,Middle Order
+Travis Head,5,45.38,43.8,4.42,36.46,51.03,Middle Order
+Ricky Ponting,3,51.85,50.45,2.92,45.73,55.3,Top Order
+Justin Langer,1,45.27,44.3,3.31,38.95,49.81,Top Order
+Matthew Hayden,2,50.74,48.86,3.54,43.14,54.77,Top Order
+Mark Waugh,3,41.82,41.6,2.54,37.38,45.76,Top Order
+Steve Waugh,4,51.06,49.79,2.86,45.11,54.53,Middle Order
+Mahela Jayawardene,4,49.85,48.32,3.32,42.78,53.75,Middle Order
+Kumar Sangakkara,3,57.41,54.2,3.68,48.36,60.41,Top Order
+Babar Azam,4,47.75,45.86,4.12,39.17,52.63,Middle Order
+Kane Williamson,3,54.93,51.67,3.99,45.12,58.29,Top Order
+Shubman Gill,1,32.2,33.51,4.71,25.75,41.27,Top Order
+Rahul Dravid,3,52.31,50.94,2.83,46.18,55.49,Top Order
+VVS Laxman,5,45.97,45.27,2.81,40.81,50.05,Middle Order
+Sourav Ganguly,6,42.18,41.87,2.79,37.31,46.49,Middle Order
+Virender Sehwag,1,49.34,47.28,3.95,40.67,53.66,Top Order
+Brian Lara,4,52.89,50.39,3.74,44.21,56.57,Middle Order
+Sunil Gavaskar,1,51.12,49.44,3.29,44.12,54.93,Top Order
+Herschelle Gibbs,1,41.95,41.5,3.52,35.66,47.25,Top Order
+Michael Vaughan,1,41.44,41.1,3.39,35.44,46.61,Top Order
+Andrew Strauss,1,40.91,40.71,2.93,35.99,45.62,Top Order
+Ian Bell,4,42.69,42.29,2.96,37.39,47.12,Middle Order
+Kevin Pietersen,5,47.29,46.1,3.35,40.66,51.63,Middle Order
+Michael Clarke,5,49.11,47.41,3.63,41.57,53.44,Middle Order
+Viv Richards,3,50.24,48.5,3.48,42.8,54.19,Top Order
+Younis Khan,3,52.06,49.89,3.6,43.98,55.83,Top Order
+Jonathan Trott,3,44.08,42.91,4.28,35.75,49.83,Top Order
+Alastair Cook,1,45.35,44.73,2.78,40.23,49.34,Top Order
+Mohammad Yousuf,4,52.29,49.83,3.8,43.56,56,Middle Order
+Javed Miandad,4,52.57,50.33,3.58,44.33,56.15,Middle Order
+Ross Taylor,4,44.67,43.98,3.11,38.9,49.11,Middle Order
+Mike Hussey,5,51.53,49.22,3.64,43.19,55.19,Middle Order
+Andy Flower,5,51.55,48.89,4.06,42.3,55.66,Middle Order
+Mibah-ul-Haq,5,46.63,45.67,3.15,40.55,50.9,Middle Order
+Ben Stokes,6,36.41,36.68,2.77,32.1,41.21,Middle Order
+Quinton de Kock,7,38.82,38.87,3.52,33.13,44.63,Lower Order
+Faf du Plessis,5,40.03,39.9,3.39,34.22,45.4,Middle Order
+Adam Gilchrist,7,47.61,46.14,3.66,40.13,52.11,Lower Order
+Matt Prior,7,40.19,40.06,3.11,34.9,45.17,Lower Order
+Brendon Mcullum,7,38.64,38.71,3.33,33.25,44.14,Lower Order
+Imran Khan,7,37.69,37.84,2.86,33.19,42.63,Lower Order
